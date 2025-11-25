@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyspark
+pydantic
+flask
+pyngrok
+flask_cors
