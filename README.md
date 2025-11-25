@@ -187,6 +187,9 @@ users/
 
 ## Prerequisites
 
+### Dataset
+- **Email-Spam-Dataset** :https://www.kaggle.com/code/adi041103/spam-email-data 
+
 ### Backend
 - **Python**: 3.8 or higher
 - **Java**: JDK 8, 11, or 17 (required by Spark)
